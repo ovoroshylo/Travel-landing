@@ -17,3 +17,4 @@ npm run test # or yarn test
 - **Development**: [Svelte](https://svelte.dev/) ([Sapper](https://sapper.svelte.dev/)) + [PostCSS](https://postcss.org/)
 - **Testing**: [Cypress](https://www.cypress.io/)
 - **Deploy**: [Netlify](https://www.netlify.com/)
+ 
